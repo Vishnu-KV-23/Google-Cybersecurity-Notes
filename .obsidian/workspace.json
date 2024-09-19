@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "171ba9254814764e",
+        "id": "ab06aec6b4662558",
         "type": "tabs",
         "children": [
           {
-            "id": "6730a19cee055fab",
+            "id": "cd3ffd5e52f483b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Cybersecurity/Module 1/Intro to CyberSec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84047640cea8d92f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations of Cybersecurity/Module 2/Common attacks and their effectiveness.md",
+                "file": "Foundations of Cybersecurity/Module 3/Security Frameworks and Controls.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Cybersecurity/Module 2/Common attacks and their effectiveness.md",
+                "file": "Foundations of Cybersecurity/Module 3/Security Frameworks and Controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Cybersecurity/Module 2/Common attacks and their effectiveness.md",
+                "file": "Foundations of Cybersecurity/Module 3/Security Frameworks and Controls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Cybersecurity/Module 2/Common attacks and their effectiveness.md"
+                "file": "Foundations of Cybersecurity/Module 3/Security Frameworks and Controls.md"
               }
             }
           }
@@ -159,22 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84047640cea8d92f",
+  "active": "f961aec7cd01ba23",
   "lastOpenFiles": [
-    "Google-Cybersecurity-Notess",
-    "Foundations of Cybersecurity/Module 2/Attacks in the digital age.md",
+    "Foundations of Cybersecurity/Module 2/CISSP Eight Security Domains Overview.md",
+    "Foundations of Cybersecurity/Module 3/Security Frameworks and Controls.md",
+    "Foundations of Cybersecurity/Module 3",
+    "Foundations of Cybersecurity/Module 2/Types of Threat Actors.md",
+    "Foundations of Cybersecurity/Module 2/Types of Cybersecurity Attacks.md",
     "Foundations of Cybersecurity/Module 2/Common attacks and their effectiveness.md",
     "Foundations of Cybersecurity/Module 2/Past cybersecurity attacks.md",
+    "Foundations of Cybersecurity/Module 1/Healthy habits for course completion.md",
+    "Foundations of Cybersecurity/Module 1/Core skills for cybersecurity professionals.md",
+    "Foundations of Cybersecurity/Module 1/The importance of cybersecurity.md",
+    "Foundations of Cybersecurity/Module 1/Intro to CyberSec.md",
+    "Google-Cybersecurity-Notess",
+    "Foundations of Cybersecurity/Module 2/Attacks in the digital age.md",
     "Foundations of Cybersecurity/Module 2/intro mod 2.md",
     "Foundations of Cybersecurity/Module 1/Glossary terms from module 1.md",
     "Foundations of Cybersecurity/Module 2",
-    "Foundations of Cybersecurity/Module 1/The importance of cybersecurity.md",
     "Foundations of Cybersecurity/Module 1/Transferable and technical cybersecurity skills.md",
     "Foundations of Cybersecurity/Module 1/Responsibilities of an entry-level cybersecurity analyst.md",
-    "Foundations of Cybersecurity/Module 1/Intro to CyberSec.md",
     "Foundations of Cybersecurity/Module 1/Common cybersecurity terminology.md",
-    "Foundations of Cybersecurity/Module 1/Core skills for cybersecurity professionals.md",
-    "Foundations of Cybersecurity/Module 1/Healthy habits for course completion.md",
     "Foundations of Cybersecurity/Module 1/Untitled",
     "Foundations of Cybersecurity/Module 1/Untitled 1.md",
     "Untitled.md",
