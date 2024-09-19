@@ -1,0 +1,4 @@
+- **Plan your time**
+- **Take notes**
+- **Review exemplars**
+- **Study together**
