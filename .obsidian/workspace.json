@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6125a679900b9364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Play it Safe/first four domains of CISSP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,29 +161,33 @@
   },
   "active": "f961aec7cd01ba23",
   "lastOpenFiles": [
+    "Play it Safe/nezxt 4.md",
+    "Play it Safe/first four domains of CISSP.md",
+    "Foundations of Cybersecurity/Module 4/Notes on Portfolio Activity Exemplar-Draft a Professional Statement.md",
+    "Play it Safe",
+    "Cyber Forensics/Module 1/Untitled.md",
+    "Cyber Forensics/Module 1",
+    "Cyber Forensics/Untitled",
+    "Cyber Forensics/Welcome.md",
+    "Cyber Forensics",
     "Foundations of Cybersecurity/Coursera H7PJDLV70IYH.pdf",
     "Foundations of Cybersecurity/Coursera H7PJDLV70IYH.pdf.crdownload",
     "Foundations of Cybersecurity/glossary.docx",
     "Foundations of Cybersecurity/Unconfirmed 712279.crdownload",
     "Foundations of Cybersecurity/Module 3/Glossary terms from module 3.md",
-    "Foundations of Cybersecurity/Module 4/Notes on Portfolio Activity Exemplar-Draft a Professional Statement.md",
     "Foundations of Cybersecurity/Module 4/Professional-statement-exemplar.docx",
     "Foundations of Cybersecurity/Module 4/Unconfirmed 961811.crdownload",
     "Foundations of Cybersecurity/Module 4/Professional Statement Activity Overview.md",
-    "Foundations of Cybersecurity/Module 4/profstatement.docx",
-    "Foundations of Cybersecurity/Module 4/profstatement2.docx",
     "Foundations of Cybersecurity/Module 4/Creating a Cybersecurity Portfolio.md",
     "Foundations of Cybersecurity/Module 4/Tools and Their Purposes.md",
     "Foundations of Cybersecurity/Module 4/Key Points on Tools for Protecting Business Operations.md",
     "Foundations of Cybersecurity/Module 4/Key Concepts.md",
     "Foundations of Cybersecurity/Module 4/Key Tools and Concepts in Security.md",
-    "Foundations of Cybersecurity/Module 4",
     "Foundations of Cybersecurity/Module 3/Short Notes on Security Ethics and Professional.md",
     "Foundations of Cybersecurity/Module 3/Controls, Frameworks, and Compliance- Key Points.md",
     "Foundations of Cybersecurity/Module 3/Key Concepts CIA Triad & NIST Cybersecurity Framework CSF.md",
     "Foundations of Cybersecurity/Module 3/Security Frameworks and Controls.md",
     "Foundations of Cybersecurity/Module 2/CISSP Eight Security Domains Overview.md",
-    "Foundations of Cybersecurity/Module 3",
     "Foundations of Cybersecurity/Module 2/Types of Threat Actors.md",
     "Foundations of Cybersecurity/Module 2/Types of Cybersecurity Attacks.md",
     "Foundations of Cybersecurity/Module 2/Common attacks and their effectiveness.md",
@@ -179,10 +196,6 @@
     "Foundations of Cybersecurity/Module 1/Core skills for cybersecurity professionals.md",
     "Foundations of Cybersecurity/Module 1/The importance of cybersecurity.md",
     "Foundations of Cybersecurity/Module 1/Intro to CyberSec.md",
-    "Google-Cybersecurity-Notess",
-    "Foundations of Cybersecurity/Module 2/Attacks in the digital age.md",
-    "Foundations of Cybersecurity/Module 2/intro mod 2.md",
-    "Foundations of Cybersecurity/Module 1/Glossary terms from module 1.md",
-    "Foundations of Cybersecurity/Module 1/Transferable and technical cybersecurity skills.md"
+    "Foundations of Cybersecurity/Module 2/Attacks in the digital age.md"
   ]
 }
