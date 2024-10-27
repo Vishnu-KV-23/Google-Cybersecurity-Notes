@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ab06aec6b4662558",
+        "id": "dcc321aab2468c72",
         "type": "tabs",
         "children": [
           {
-            "id": "cd3ffd5e52f483b3",
+            "id": "063927771f59c69a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Cybersecurity/Module 4/Notes on Portfolio Activity Exemplar-Draft a Professional Statement.md",
+                "file": "Play it Safe/Log Data Analysis in Security.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6125a679900b9364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Play it Safe/first four domains of CISSP.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Log Data Analysis in Security"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Cybersecurity/Module 4/Notes on Portfolio Activity Exemplar-Draft a Professional Statement.md",
+                "file": "Play it Safe/Security Audits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Security Audits"
             }
           },
           {
@@ -115,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Cybersecurity/Module 4/Notes on Portfolio Activity Exemplar-Draft a Professional Statement.md",
+                "file": "Play it Safe/Security Audits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Security Audits"
             }
           },
           {
@@ -129,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Cybersecurity/Module 4/Notes on Portfolio Activity Exemplar-Draft a Professional Statement.md"
-              }
+                "file": "Play it Safe/Security Audits.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Security Audits"
             }
           }
         ]
@@ -159,10 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f961aec7cd01ba23",
+  "active": "063927771f59c69a",
   "lastOpenFiles": [
+    "Play it Safe/Security Audits.md",
+    "Play it Safe/Log Data Analysis in Security.md",
+    "Play it Safe/Additional OWASP Security Principles.md",
+    "Play it Safe/Control-categories.docx",
+    "Play it Safe/Audit-Scope-and-Goals.docx",
+    "Play it Safe/_QCNTbVvT2S77nAV2uvRNA_00f0a280894f49d4b669ed548df1fbf1_Audit-Scope-and-Goals.docx",
+    "Play it Safe/OWASP Security Principles for Entry-Level Analysts.md",
+    "Play it Safe/NIST Framework Overview.md",
+    "Play it Safe/NIST Frameworks.md",
+    "Play it Safe/Using the CIA Triad to Protect Organizations.md",
+    "Play it Safe/CIA Triad Core Security Model for Protecting Organizations.md",
+    "Play it Safe/Security Frameworks and Controls.md",
+    "Play it Safe/8 domains of CISSP.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Play it Safe/nezxt 4.md",
-    "Play it Safe/first four domains of CISSP.md",
     "Foundations of Cybersecurity/Module 4/Notes on Portfolio Activity Exemplar-Draft a Professional Statement.md",
     "Play it Safe",
     "Cyber Forensics/Module 1/Untitled.md",
@@ -173,10 +191,7 @@
     "Foundations of Cybersecurity/Coursera H7PJDLV70IYH.pdf",
     "Foundations of Cybersecurity/Coursera H7PJDLV70IYH.pdf.crdownload",
     "Foundations of Cybersecurity/glossary.docx",
-    "Foundations of Cybersecurity/Unconfirmed 712279.crdownload",
     "Foundations of Cybersecurity/Module 3/Glossary terms from module 3.md",
-    "Foundations of Cybersecurity/Module 4/Professional-statement-exemplar.docx",
-    "Foundations of Cybersecurity/Module 4/Unconfirmed 961811.crdownload",
     "Foundations of Cybersecurity/Module 4/Professional Statement Activity Overview.md",
     "Foundations of Cybersecurity/Module 4/Creating a Cybersecurity Portfolio.md",
     "Foundations of Cybersecurity/Module 4/Tools and Their Purposes.md",
@@ -184,18 +199,6 @@
     "Foundations of Cybersecurity/Module 4/Key Concepts.md",
     "Foundations of Cybersecurity/Module 4/Key Tools and Concepts in Security.md",
     "Foundations of Cybersecurity/Module 3/Short Notes on Security Ethics and Professional.md",
-    "Foundations of Cybersecurity/Module 3/Controls, Frameworks, and Compliance- Key Points.md",
-    "Foundations of Cybersecurity/Module 3/Key Concepts CIA Triad & NIST Cybersecurity Framework CSF.md",
-    "Foundations of Cybersecurity/Module 3/Security Frameworks and Controls.md",
-    "Foundations of Cybersecurity/Module 2/CISSP Eight Security Domains Overview.md",
-    "Foundations of Cybersecurity/Module 2/Types of Threat Actors.md",
-    "Foundations of Cybersecurity/Module 2/Types of Cybersecurity Attacks.md",
-    "Foundations of Cybersecurity/Module 2/Common attacks and their effectiveness.md",
-    "Foundations of Cybersecurity/Module 2/Past cybersecurity attacks.md",
-    "Foundations of Cybersecurity/Module 1/Healthy habits for course completion.md",
-    "Foundations of Cybersecurity/Module 1/Core skills for cybersecurity professionals.md",
-    "Foundations of Cybersecurity/Module 1/The importance of cybersecurity.md",
-    "Foundations of Cybersecurity/Module 1/Intro to CyberSec.md",
-    "Foundations of Cybersecurity/Module 2/Attacks in the digital age.md"
+    "Foundations of Cybersecurity/Module 3/Controls, Frameworks, and Compliance- Key Points.md"
   ]
 }
