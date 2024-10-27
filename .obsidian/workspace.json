@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Play it Safe/Log Data Analysis in Security.md",
+                "file": "Play it Safe/SIEM Tools and Dashboards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log Data Analysis in Security"
+              "title": "SIEM Tools and Dashboards"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "063927771f59c69a",
   "lastOpenFiles": [
-    "Play it Safe/Security Audits.md",
     "Play it Safe/Log Data Analysis in Security.md",
+    "Play it Safe/SIEM Tools and Dashboards.md",
+    "Play it Safe/Security Audits.md",
     "Play it Safe/Additional OWASP Security Principles.md",
     "Play it Safe/Control-categories.docx",
     "Play it Safe/Audit-Scope-and-Goals.docx",
@@ -198,7 +199,6 @@
     "Foundations of Cybersecurity/Module 4/Key Points on Tools for Protecting Business Operations.md",
     "Foundations of Cybersecurity/Module 4/Key Concepts.md",
     "Foundations of Cybersecurity/Module 4/Key Tools and Concepts in Security.md",
-    "Foundations of Cybersecurity/Module 3/Short Notes on Security Ethics and Professional.md",
-    "Foundations of Cybersecurity/Module 3/Controls, Frameworks, and Compliance- Key Points.md"
+    "Foundations of Cybersecurity/Module 3/Short Notes on Security Ethics and Professional.md"
   ]
 }
