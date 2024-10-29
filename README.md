@@ -1,5 +1,5 @@
 
-# 🌐 Google Cybersecurity Notes: Mastering the Essentials 🛡️
+# 🌐 Google Cybersecurity Notes 🛡️
 
 Welcome to **Google Cybersecurity Notes**, your one-stop guide to navigating the critical concepts, skills, and tools covered in the Google Cybersecurity Certificate program! This repository is designed for anyone eager to gain a robust understanding of cybersecurity, with in-depth notes and insights on each of the 8 courses in this series.
 
